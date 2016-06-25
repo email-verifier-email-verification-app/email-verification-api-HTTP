@@ -1,7 +1,6 @@
 POST /email_verification/ HTTP/1.1
 Host: api.evasrv.com
 Cache-Control: no-cache
-Postman-Token: 24c4c3c3-001b-a4ea-a16f-970e0fcc7ae3
 Content-Type: application/x-www-form-urlencoded
 
 email=test%40domain.com&user_API_token=ggd0143305f60a131dc5d458431e756e7d1b19ba&=

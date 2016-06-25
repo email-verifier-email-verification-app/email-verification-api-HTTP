@@ -6,7 +6,7 @@ Getting Started with Email Verifier
 --------------------------------
 Well, the first step is to create an account at https://www.emailverifierapp.com/. Once your account has been approved, you will receive a verification email. Click on the confirmation link to activate your account.
 
-Once the account has been activated, You can purchase a top up to get FREE 100 API requests. After logging into your account, click on Account Settings (top right corner) and select "API & Integrations" tab. You will find your API token there. You would need this key to POST API calls to our service.
+Once the account has been activated, You can purchase a top up to get [FREE 100 API requests](https://support.emailverifierapp.com/articles/api/do-i-get-free-credit-for-testing-your-api). After logging into your account, click on Account Settings (top right corner) and select "API & Integrations" tab. You will find your API token there. You would need this key to POST API calls to our service.
 
 The Email Verifier App's - Email Verification APIs are all available individually, or you can validate multiple email addresses one after another call. 
 
